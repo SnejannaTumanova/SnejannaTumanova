@@ -40,6 +40,8 @@
 
 <hr align="center" width="100%" size="50" color="#19ff19" />
 
+:woman_technologist: About Me :
+
 Я начинающий JavaScript программист
 <img
   src="https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif"
@@ -55,7 +57,9 @@ React и Redux, а так же читаю книгу "Грокаем алгор�
 - :globe_with_meridians: Как со мной связаться:[![VKontakte
 Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=VKontakte&logoColor=white)](https://vk.com/id624685918)
 
-<div aligh="center" id="icons">
+:hammer_and_wrench: Languages and Tools :
+
+<div align="center" id="icons">
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
     title="HTML5"
@@ -101,9 +105,13 @@ Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=VKontakte&lo
   />
 </div>
 
-:fire: My Stats : [![GitHub
+:fire: My Stats : 
+
+[![GitHub
 Streak](http://github-readme-streak-stats.herokuapp.com?user=SnejannaTumanova&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnejannaTumanova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
