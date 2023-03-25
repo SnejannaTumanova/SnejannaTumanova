@@ -19,3 +19,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center" id="header" >
+  <img src='https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif'width="600" height="400"/>
+</div>
+<hr align="center" width="100%" size="50" color="#0000dd" />
+👩‍💻 Обо мне:
+Я начинающий JavaScript программист <img src="https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif" width="30" alt="laptop">
+
+- :nerd_face:За 6 месяцев я самостоятельно изучила синтаксис языка JavaScript
+
+- :100:Прочитала книгу "Learning JavaScript programming" | Elizabeth Robson, Eric Freeman
+
+- :brain:В данный момент изучаю синтаксис языка SQL и PHP, фреймворки React и Redux, а так же читаю книгу "Грокаем алгоритмы".
+
+- :globe_with_meridians: Как со мной связаться:[![VKontakte Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=VKontakte&logoColor=white)](https://vk.com/id624685918)
