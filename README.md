@@ -33,3 +33,6 @@
 - :brain:В данный момент изучаю синтаксис языка SQL и PHP, фреймворки React и Redux, а так же читаю книгу "Грокаем алгоритмы".
 
 - :globe_with_meridians: Как со мной связаться:[![VKontakte Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=VKontakte&logoColor=white)](https://vk.com/id624685918)
+ <hr align="center" width="100%" size="50" color="#19ff19" /
+     >
+:hammer_and_wrench: Languages and Tools :     
