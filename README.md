@@ -105,9 +105,9 @@ Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=VKontakte&lo
 </div>
 
 <div align="center" id="header">
-  <img
-    src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif"
-    width="600"
+   <img
+    src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif"
+    width="400"
     height="400"
   />
 </div>
@@ -119,5 +119,6 @@ Streak](http://github-readme-streak-stats.herokuapp.com?user=SnejannaTumanova&th
 
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnejannaTumanova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
