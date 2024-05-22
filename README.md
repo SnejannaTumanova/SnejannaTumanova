@@ -89,9 +89,9 @@ Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=VKontakte&lo
     height="100"
   />
   <img
-  src="https://friconix.com/png/fi-cnsuxx-nodejs.png"
-  title="nodejs"
-  alt="nodejs"
+  src="https://miro.medium.com/v2/resize:fit:1000/1*vkXJnUo4J_uukLutxZ1vrA.png"
+  title="nestjs"
+  alt="nestjs"
   width="100"
   height="100"
   />
