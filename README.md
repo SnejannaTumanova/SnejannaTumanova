@@ -42,7 +42,7 @@
 
 :woman_technologist: About Me :
 
-Я начинающий JavaScript программист
+ Fullstack разработчик
 <img
   src="https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif"
   width="30"
@@ -52,7 +52,7 @@
 - :nerd_face:За 6 месяцев я самостоятельно изучила синтаксис языка JavaScript 
 - :100:Прочитала книгу "Learning JavaScript programming" | Elizabeth Robson, Eric
 Freeman 
-- :brain:В данный момент изучаю синтаксис языка SQL и PHP, фреймворки
+- :brain:Изучила синтаксис языка SQL, фреймворки
 React и Redux, а так же читаю книгу "Грокаем алгоритмы". 
 - :globe_with_meridians: Как со мной связаться:[![VKontakte
 Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=VKontakte&logoColor=white)](https://vk.com/id624685918)
